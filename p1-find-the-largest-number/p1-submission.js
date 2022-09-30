@@ -10,9 +10,12 @@ if(number1 > number2){
         max = number1;
     }else{
         max = number3;
+
+        
     }
 }else{
     max = number2;
+    
 
 }
 
